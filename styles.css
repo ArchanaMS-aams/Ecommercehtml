@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.product-gallery {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.gallery-container {
+    display: block;
+}
+
+.product-image img {
+    width: 300px ;
+    height: auto;
+}
+body{
+    background-image: url('images.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
